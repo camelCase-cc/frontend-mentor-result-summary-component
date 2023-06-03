@@ -38,18 +38,13 @@ html{
 }
 body {
     width: 100%;
-    min-height: 100%;
-    background: var(--neutral-Pale-blue);
-    font-family: var(--font-family);
-}
-
-section.main-content {
-    width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background: var(--neutral-Pale-blue);
+    font-family: var(--font-family);
 }
 
 section.container {
@@ -222,12 +217,6 @@ button:active {
 }
 
 @media screen and (max-width: 375px) {
-    section.main-content {
-        width: 100%;
-        height: 100vh;
-        display: block;
-    }
-
     section.container {
         width: 100%;
         display: block;
