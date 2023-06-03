@@ -43,7 +43,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: var(--neutral-Pale-blue);
+    background: var(--neutral-White);
     font-family: var(--font-family);
 }
 
@@ -54,7 +54,7 @@ section.container {
     flex-direction: row;
     border-radius: 22px;
     background: var(--neutral-White);
-    box-shadow: 15px 15px 10px 5px hsla(241, 100%, 89%, 0.3);
+    box-shadow: 15px 15px 20px 25px hsla(241, 100%, 89%, 0.3);
 }
 
 h1 {
