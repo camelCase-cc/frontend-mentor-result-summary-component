@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/camelCase-cc/frontend-mentor-result-summary-component)
-- Live Site URL: [Add live site URL here](https://camelcase-cc.github.io/frontend-mentor-result-summary-component/)
+- Solution URL: [Solution URL](https://github.com/camelCase-cc/frontend-mentor-result-summary-component)
+- Live Site URL: [live site URL](https://camelcase-cc.github.io/frontend-mentor-result-summary-component/)
 
 ## My process
 
