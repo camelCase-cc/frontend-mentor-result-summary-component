@@ -105,6 +105,10 @@ button.continue {
     color: var(--neutral-Pale-blue);
 }
 
+button:active {
+    background: linear-gradient(to top, var(--gradient-light-royal-blue-bg), var(--gradient-light-slate-blue-bg));
+}
+
 .left-content {
     width: 50%;
     border-radius: 20px;
